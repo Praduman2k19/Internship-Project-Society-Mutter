@@ -1,0 +1,20 @@
+.nav{
+    /* padding: 20px; */
+    font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    text-decoration: none;
+    background: rgb(66, 90, 221);
+}
+.item{
+    /* background: rgb(129, 46, 46); */
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    
+}
+.item .link{
+    text-decoration: none;
+    color: white;
+}
